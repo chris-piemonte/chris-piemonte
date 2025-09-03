@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Chris Piemonte 🤖
 
-I'm a full-stack developer passionate about building developer tools that eliminate backend complexity. I believe developers should focus on creating amazing user experiences, not wrestling with infrastructure.
+I'm a full-stack software engineer with multiple years of work in the Rubuy, JavaScript/Typescript, and Python ecosystems.
 
 ## 🚀 **Pendulum BaaS - Self-Hosted Backend Platform**
 
-I built **Pendulum**, a comprehensive Backend-as-a-Service platform that provides real-time synchronization out-of-the-box while keeping you in control of your data and infrastructure.
+In collaboration with two other software engineers I co-built **Pendulum**, a comprehensive Backend-as-a-Service platform that provides real-time synchronization out-of-the-box while keeping you in control of your data and infrastructure.
 
 📖[Read more about Pendulum](https://www.pendulum-baas.dev/)
 

@@ -4,7 +4,7 @@ I'm a full-stack software engineer with multiple years of work in the Rubuy, Jav
 
 ## 🚀 **Pendulum BaaS - Self-Hosted Backend Platform**
 
-In collaboration with two other software engineers I co-built **Pendulum**, a comprehensive Backend-as-a-Service platform that provides real-time synchronization out-of-the-box while keeping you in control of your data and infrastructure.
+In collaboration with two other software engineers I co-built **Pendulum**, a comprehensive open-source Backend-as-a-Service platform that provides real-time synchronization out-of-the-box while keeping you in control of your data and infrastructure.
 
 📖[Read more about Pendulum](https://www.pendulum-baas.dev/)
 

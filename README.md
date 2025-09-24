@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Chris Piemonte 🤖
+# Hi there 👋 I'm Chris Piemonte
 
 I'm a full-stack software engineer with multiple years of work in the Rubuy, JavaScript/Typescript, and Python ecosystems.
 
